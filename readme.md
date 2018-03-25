@@ -49,23 +49,30 @@ python manage.py runserver
 
 ### 首页
 
-![img1.jpg](doc/img1.jpg "")
+![img1.png](doc/img1.png "")
 
 ----------
 
 ### 主题页
 
-![img2.jpg](doc/img2.jpg "")
+![img2.png](doc/img2.png "")
 
 ----------
 
 ### 详细条目页
 
-![img3.jpg](doc/img3.jpg "")
+![img3.png](doc/img3.png "")
 
 ----------
-### 增加，编辑页
-![img4.jpg](doc/img4.jpg "")
-![img5.jpg](doc/img5.jpg "")
-![img6.jpg](doc/img6.jpg "")
+### 增加主题页
+
+![img4.png](doc/img4.png "")
+
+----------
+![img5.png](doc/img5.png "")
+
+----------
+![img6.png](doc/img6.png "")
+
+----------
 
